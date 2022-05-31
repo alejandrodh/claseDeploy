@@ -10,7 +10,7 @@ const movieController = {
             ]
         })
             .then( function (peliculas){
-                return res.send(peliculas)
+                //return res.send(peliculas)
                 return res.render('index', { movies:peliculas });
             })
             .catch(error => console.log(error))
