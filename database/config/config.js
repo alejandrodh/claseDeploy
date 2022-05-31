@@ -8,10 +8,10 @@ module.exports =
   //   "dialect": "mysql"
   // },
   "development": {
-    "username": '271323_udesaprog',
-    "password": 'udesaprog123',
-    "database": 'deployprog2_movies',
-    "host": 'mysql-deployprog2.alwaysdata.net',
+    "username": 'root',
+    "password": 'root',
+    "database": 'moviedb',
+    "host": '127.0.0.1',
     "dialect": "mysql"
   },
   "test": {
