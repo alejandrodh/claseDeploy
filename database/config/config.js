@@ -15,10 +15,10 @@ module.exports =
     "dialect": "mysql"
   },
   "production": {
-    "username": DB_USER,
-    "password": DB_PASS,
-    "database": DB_NAME,
-    "host": DB_HOST,
+    "username": 271323,
+    "password": 'deployProg2',
+    "database": 'deployprog2_movies',
+    "host": 'mysql-deployprog2.alwaysdata.net',
     "dialect": "mysql"
   }
 }
