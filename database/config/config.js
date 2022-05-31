@@ -1,10 +1,17 @@
 module.exports =
 {
+  // "development": {
+  //   "username": "root",
+  //   "password": 'root',
+  //   "database": "movies_db",
+  //   "host": "127.0.0.1",
+  //   "dialect": "mysql"
+  // },
   "development": {
-    "username": "root",
-    "password": 'root',
-    "database": "movies_db",
-    "host": "127.0.0.1",
+    "username": '271323_udesaprog',
+    "password": 'udesaprog123',
+    "database": 'deployprog2_movies',
+    "host": 'mysql-deployprog2.alwaysdata.net',
     "dialect": "mysql"
   },
   "test": {
