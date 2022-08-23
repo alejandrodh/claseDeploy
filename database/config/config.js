@@ -22,10 +22,10 @@ module.exports =
     "dialect": "mysql"
   },
   "production": {
-    "username": 'root',
-    "password": null,
-    "database": 'database_prod',
-    "host": '127.0.0.1',
+    "username": '271323',
+    "password": 'Monroe860',
+    "database": 'deployprog2_tallerdeploy',
+    "host": 'mysql-deployprog2.alwaysdata.net',
     "dialect": "mysql"
   }
 }
