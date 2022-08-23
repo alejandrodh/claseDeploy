@@ -22,8 +22,8 @@ module.exports =
     "dialect": "mysql"
   },
   "production": {
-    "username": '271323_udesaprog',
-    "password": 'udesaprog123',
+    "username": '271323',
+    "password": 'Monroe860',
     "database": 'deployprog2_movies',
     "host": 'mysql-deployprog2.alwaysdata.net',
     "dialect": "mysql"
